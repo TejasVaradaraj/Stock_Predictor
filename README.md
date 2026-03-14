@@ -3,7 +3,7 @@
 # StockForecaster
 ##### Author: David Sanchez &nbsp; • &nbsp; Development: Aug 2023 — Present &nbsp; • &nbsp; [Live Demo - Vercel Deployment](https://stockforecaster-tau.vercel.app/)
 
-![Image](assets/stockforecaster-demo.png)
+web application/stitch/projects/5176041269429268878/screens/0a1c7e37cc404b0cb0b283479041f12d
   
 </div>
 
